@@ -27,18 +27,19 @@ main {
 }
 
 .header {
-    background: linear-gradient(to top, #404040 0%, #000000 100%);
+    background-image: url("../resources/images/the-manor-web-banner.png"); 
     height: 300px;
     position: relative;
     text-align: center;
     width: 100%;
     display: block;
-    color: yellow;
 }
 
 .logo {
   padding: 1px;
   position: relative;
+  text-align: center;
+  height: 300px;
 }
 
 .social1 {
