@@ -20,6 +20,13 @@ body {
     line-height: 1;
 }
 
+
+.animate__animated.animate__fadeIn {
+  --animate-duration: 2s;
+  --animate-delay: 0s;
+}
+
+
 main {
   width: 100%;
   text-align: center;
