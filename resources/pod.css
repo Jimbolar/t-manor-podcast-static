@@ -89,7 +89,8 @@ footer {
   height: 200px;
   bottom: 0;
   width: 100%;
-  background: linear-gradient(to top, #404040 30%, #000000 100%);
+  /* background: linear-gradient(to top, #404040 30%, #000000 100%); */
+  background-image: url("../resources/images/the-manor-web-footer.png");
   margin: 20 0 0 0;
 }
 
