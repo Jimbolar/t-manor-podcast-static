@@ -86,7 +86,7 @@ main {
 footer {
   position: relative;
   text-align: center;
-  height: 200px;
+  height: 300px;
   bottom: 0;
   width: 100%;
   /* background: linear-gradient(to top, #404040 30%, #000000 100%); */
@@ -96,7 +96,7 @@ footer {
 
 .social2 {
   margin: 0 0 0 0;
-  padding: 25px;
+  padding: 50px;
   text-align: center;
 }
 
